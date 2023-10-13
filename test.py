@@ -1,4 +1,5 @@
-if True:
-    a = 3
+a = None
+b = None
 
-print(a)
+if a == '':
+    print(1)
