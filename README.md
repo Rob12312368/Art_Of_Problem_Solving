@@ -16,8 +16,8 @@ make sure I can have the answer if either of them is not None.
 --------------------------------------------------------------------------------------------
 
 Edge Cases Control
-1. If there is no such a path's product equivalent to the target, print and write 'No answer in the pyramid.'.
-2. If the pyramid only has one element, and it equals to the target, print and write 'The first element of the pyramid equals to the product. No L or R printed.'
+1. If there is no such a path's product equivalent to the target, print and write **'No answer in the pyramid.'**.
+2. If the pyramid only has one element, and it equals to the target, print and write **'The first element of the pyramid equals to the product. No L or R printed.'**.
 3. Otherwise, print and write the answer to 'myanswer.txt'.
 
 10/13/2023
